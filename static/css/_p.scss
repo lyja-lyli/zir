@@ -1,0 +1,15 @@
+p {
+  color: $color-heder;
+  margin-top: 60px;
+  font-size: 15px;
+
+  &:nth-child(2){
+    margin-top: 15px;
+  }
+
+  &.opis-podnaslova {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 25px;
+  }
+}
